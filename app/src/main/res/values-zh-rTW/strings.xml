@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+
+    <string name="setting_language_auto">跟隨系統</string>
+    <string name="setting_language_english">英文</string>
+    <string name="setting_bn">簡體中文</string>
+    <string name="setting_traditional_chinese">繁體中文</string>
+    <string name="user_name">簡體中文</string>
+    <string name="other_page">簡體 中文</string>
+</resources>

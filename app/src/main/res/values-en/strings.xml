@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+
+    <string name="setting_language_auto">System</string>
+    <string name="setting_language_english">English</string>
+    <string name="setting_bn">Bangla</string>
+    <string name="setting_traditional_chinese">Traditional Chinese</string>
+    <string name="user_name">Yeasin</string>
+    <string name="other_page">Other page</string>
+
+</resources>

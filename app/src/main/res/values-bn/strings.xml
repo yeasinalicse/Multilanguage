@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultiLanguageDemo</string>
+
+    <string name="setting_language_auto">পদ্ধতি</string>
+    <string name="setting_language_english">ইংরেজি</string>
+    <string name="setting_bn">বাংলাা</string>
+    <string name="setting_traditional_chinese">ঐতিহ্যবাহী চাইনিজ</string>
+    <string name="user_name">ইয়াসিন</string>
+
+    <string name="other_page">অন্যান্য পৃষ্ঠা</string>
+
+</resources>
